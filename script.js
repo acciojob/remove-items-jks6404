@@ -1,8 +1,4 @@
 //your JS code here. If required.
-<div id="line">
-		
-	</div>
-Shweta Pal7:07 PM
 let selectedElement = document.getElementById("colorSelect");
 	let selectedValue = selectedElement.value;
 	let childrenList = selectedElement.children;
